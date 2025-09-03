@@ -1,5 +1,9 @@
+# Project Setups and Experiments
+
 ## Setup
-The project is setup with an Anaconda environment using the Captum, PyTorch, NunPy, Pandas, Seaborn and Matplotlib libraries.
+The project is configured with an Anaconda environment using the follwoing libraries:
+Captum, PyTorch, NunPy, Pandas, Seaborn and Matplotlib
+Make sure your environment has these dependencies installed before running the notebooks.
 
 ## Experiments
 To reproduce the experiments run the code of the following Python Notebooks:
@@ -12,4 +16,5 @@ Experiment 3.3: Evaluate_Time.ipynb
 
 Plot_transformations.ipynb is the code to plot the transformation functions
 
+## Note
 Some of the Notebooks take multiple hours to run
